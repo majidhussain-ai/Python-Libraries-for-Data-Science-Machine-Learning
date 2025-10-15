@@ -35,4 +35,3 @@ This repository is designed to help learners and professionals understand the **
 - End-to-end platform for machine learning and deep learning  
 - Building and training models with Keras API
 
----
